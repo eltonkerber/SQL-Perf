@@ -1,7 +1,7 @@
 USE master
 GO
 CREATE OR ALTER PROCEDURE [dbo].[sp_size]   
--- create or alter this syntax only works in SQL Server 2016 or above
+-- create or alter - this syntax only works in SQL Server 2016 or above
 AS    
 begin    
 
